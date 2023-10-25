@@ -14,7 +14,7 @@ from langchain.chat_models import ChatOpenAI
 import chainlit as cl
 
 #https://docs.chainlit.io/integrations/llama-index
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = ""
 
 try:
     # rebuild storage context
